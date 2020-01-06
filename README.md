@@ -1,2 +1,2 @@
 # awesome-xiaolai
-a repository of xiaolai's awesome things. 
+a repository of awesome things about xiaolai. 
